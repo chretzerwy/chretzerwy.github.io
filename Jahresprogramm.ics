@@ -109,8 +109,9 @@ UID:2025101419142711@grueninger.ch
 DTSTAMP:20251014T191427
 DTSTART:20250427
 DTEND:20250428
-SUMMARY:Seifenkistenrennen Ermatingen2
+SUMMARY:Seifenkistenrennen Ermatingen
 DESCRIPTION:an der Fruthwilerstrasse
 LOCATION:Fruthwilen
 END:VEVENT
 END:VCALENDAR
+
