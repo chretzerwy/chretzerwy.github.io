@@ -247,4 +247,13 @@ SUMMARY:Seifenkistenrennen Ermatingen
 DESCRIPTION:an der Fruthwilerstrasse
 LOCATION:Fruthwilen
 END:VEVENT
+BEGIN:VEVENT
+UID:wix-7429d9f7-4bd5-48cb-b6de-dfc746e4da0e@chretzerwy.ch
+DTSTAMP:20261011T151905Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270606
+SUMMARY:Grüninger’s Weindegustation
+DESCRIPTION:mit Festwirtschaft\, Fischknusperli\, Pommes frites\, Käse\, Wysuppe und vieles mehr...
+LOCATION:Schiffgasse 7\, Ermatingen
+END:VEVENT
 END:VCALENDAR
