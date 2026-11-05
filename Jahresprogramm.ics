@@ -141,13 +141,13 @@ LOCATION:Landi\, Ermatingen
 END:VEVENT
 BEGIN:VEVENT
 UID:2026091912153115@grueninger.ch
-DTSTAMP:20261105T021559Z
+DTSTAMP:20261105T145718Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:Weihnachtsmarkt Tägerwilen
-DESCRIPTION:bei der Dreifachhalle Tägerwilen \n\nSamstag\, 28. November: ab 16 Uhr\nSonntag\, 29. November: 10–18 Uhr
+DESCRIPTION:bei der Dreifachhalle Tägerwilen \nSamstag\, 28. Nov.: ab 16 Uhr\nSonntag\, 29. Nov.: 10–18 Uhr
 LOCATION:Tägerwilen
-SEQUENCE:3
+SEQUENCE:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026091912153116@grueninger.ch
